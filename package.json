@@ -1,0 +1,19 @@
+{
+  "name": "firstexpressapp",
+  "version": "1.0.0",
+  "description": "Teach how to deploy a first simple App with Node and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liobouchan/firstExpressApp.git"
+  },
+  "author": "Leonardo Bouchan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liobouchan/firstExpressApp/issues"
+  },
+  "homepage": "https://github.com/liobouchan/firstExpressApp#readme"
+}
